@@ -1,12 +1,10 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "learning-path",
+  "description": "An app to let you manage your learning ambitions an your path to mastery",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Benedikt Straube",
   "dependencies": {
     "gatsby": "^3.4.1",
-    "gatsby-plugin-gatsby-cloud": "^2.4.1",
     "gatsby-plugin-image": "^1.4.0",
     "gatsby-plugin-manifest": "^3.4.0",
     "gatsby-plugin-offline": "^4.4.0",
@@ -22,9 +20,6 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
@@ -37,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/BenediktSt/learning-path"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/BenediktSt/learning-path/issues"
   }
 }
